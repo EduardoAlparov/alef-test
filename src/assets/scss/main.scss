@@ -1,0 +1,31 @@
+@import './null.scss';
+@import './normalize.scss';
+@import './layout.scss';
+@import './variables.scss';
+@import './fonts.scss';
+
+@import './visually-hidden.scss';
+
+// header
+@import './blocks/header.scss';
+@import './blocks/logo.scss';
+@import './blocks/menu-header.scss';
+@import './blocks/btn-menu.scss';
+@import './blocks/hidden-menu.scss';
+
+// main
+@import './blocks/content.scss';
+@import './blocks/cart.scss';
+@import './blocks/gallery.scss';
+@import './blocks/info-cart.scss';
+@import './blocks/intermediate-link.scss';
+@import './blocks/b-grid.scss';
+@import './blocks/media-gallerys.scss';
+
+// footer
+@import './blocks/footer.scss';
+@import './blocks/menu-footer.scss';
+@import './blocks/feedback.scss';
+
+// popup
+@import './blocks/popup.scss';

@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "info": {
+            "name": "Пижама для девочек",
+            "articule": "02765/46",
+            "reviews": [
+                {
+                    "id": 1,
+                    "text": "text",
+                    "rating": 5
+                },
+                {
+                    "id": 2,
+                    "text": "text",
+                    "rating": 4
+                },
+                {
+                    "id": 3,
+                    "text": "text",
+                    "rating": 4
+                }
+            ],
+            "newPrice": 800,
+            "oldPrice": 1500,
+            "sizes": ["XS", "S", "M"],
+            "counter": 0
+        },
+        "images": [
+            {
+                "path": "image-1.jpg",
+                "id": 1
+            },
+            {
+                "path": "image-2.jpg",
+                "id": 2
+            },
+            {
+                "path": "image-3.jpg",
+                "id": 3
+            },
+            {
+                "path": "image-4.jpg",
+                "id": 4
+            }
+        ]
+    }
+]
